@@ -5,7 +5,7 @@ $_LANGMAIL = array();
 
 $_LANGMAIL['Your guest account has been transformed to customer account'] = 'Ihr Gast-Konto wurde in ein Kunden-Konto umgewandelt';
 $_LANGMAIL['Virtual product to download'] = 'Virtuelle(r) Artikel zum Download';
-$_LANGMAIL['New voucher regarding your order %s'] = 'Neue Gutschein für Ihre Bestellung %s';
+$_LANGMAIL['New voucher regarding your order %s'] = 'Neuer Gutschein für Ihre Bestellung %s';
 $_LANGMAIL['Order confirmation'] = 'Auftragsbestätigung';
 $_LANGMAIL['Log: You have a new alert from your shop'] = 'Sie haben eine neue Log-Warnung von Ihrem Shop erhalten';
 $_LANGMAIL['Fwd: Customer message'] = 'Fwd: Kundennachricht';
@@ -37,7 +37,7 @@ $_LANGMAIL['New order : #%d - %s'] = 'Neue Bestellung: Nr. %d - %s';
 $_LANGMAIL['Product out of stock'] = 'Ein oder mehrere Artikel sind fast ausverkauft';
 $_LANGMAIL['Stock coverage'] = 'Bestandsdeckung';
 $_LANGMAIL['Referral Program'] = 'Mein Konto';
-$_LANGMAIL['Congratulations!'] = 'Gratulation';
+$_LANGMAIL['Congratulations!'] = 'Glückwunsch!';
 $_LANGMAIL['%1$s sent you a link to %2$s'] = '%1$s hat Ihnen einen Link von %2$s geschickt';
 
 
